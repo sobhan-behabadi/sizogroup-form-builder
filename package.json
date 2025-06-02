@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sobhan-behabadi/sizo-form-builder.git"
+    "url": "git+https://github.com/sobhan-behabadi/sizogroup-form-builder.git"
   },
   "keywords": [
     "form",
@@ -48,8 +48,8 @@
   "author": "Sobhan Behabadi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sobhan-behabadi/sizo-form-builder/issues"
+    "url": "https://github.com/sobhan-behabadi/sizogroup-form-builder/issues"
   },
-  "homepage": "https://github.com/sobhan-behabadi/sizo-form-builder#readme",
+  "homepage": "https://github.com/sobhan-behabadi/sizogroup-form-builder#readme",
   "description": ""
 }

@@ -149,4 +149,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For issues or questions, please open an issue on our [GitHub repository](https://github.com/sobhan-behabadi/sizo-form-builder).
+For issues or questions, please open an issue on our [GitHub repository](https://github.com/sobhan-behabadi/sizogroup-form-builder).
