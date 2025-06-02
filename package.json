@@ -1,0 +1,55 @@
+{
+  "name": "@sizo-group/form-builder",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "scripts": {
+    "rollup": "rollup -c --bundleConfigAsCjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "@heroui/react": "^2.7.8",
+    "framer-motion": "^12.12.2",
+    "react-dom": "^19.1.0",
+    "react-hook-form": "^7.56.4",
+    "tailwindcss": "^3.4.17",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "react": "^19.1.0",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.3",
+    "@rollup/plugin-commonjs": "^28.0.3",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^19.1.0",
+    "rollup": "^4.39.0",
+    "rollup-plugin-dts": "^6.2.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobhan-behabadi/sizo-form-builder.git"
+  },
+  "keywords": [
+    "form",
+    "form-builder",
+    "heroui",
+    "form-generator",
+    "sizo"
+  ],
+  "author": "Sobhan Behabadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sobhan-behabadi/sizo-form-builder/issues"
+  },
+  "homepage": "https://github.com/sobhan-behabadi/sizo-form-builder#readme",
+  "description": ""
+}
